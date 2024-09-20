@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<title> LBK Styrelsen </title>
+<head> Hej!Det är vi som sitter I styrelsen </head>
+<br>
+<br>
+<Body> 
+<p>
+1. Göran Persson
+<br>
+2. Thorbjörn Fälldin
+<br>
+3. Ola Ullsten
+<br>
+4. Ingvar Carlsson
+</p>
+</body>
+</html>
