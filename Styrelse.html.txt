@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <title> LBK Styrelsen </title>
-<head> Hej!Det är vi som sitter I styrelsen </head>
+<head> Hej! Det är vi som sitter I styrelsen </head>
 <br>
 <br>
-<Body> 
+<body> 
 <p>
 1. Göran Persson
 <br>
